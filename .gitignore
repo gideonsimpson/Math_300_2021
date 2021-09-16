@@ -25,3 +25,8 @@ Manifest.toml
 
 # notebook checkpoints
 **/.ipynb_checkpoints/*
+
+# generated files
+*.pdf
+*.png
+*.gif
